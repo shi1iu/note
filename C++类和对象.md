@@ -8,8 +8,6 @@
 
 ### 1.属性和行为作为整体
 
-实例：求圆周长的类
-
 ```C++
 #include <iostream>
 #include <string>
